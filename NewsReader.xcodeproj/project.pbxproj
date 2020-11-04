@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A4467DF72552EAA800F0934A /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4467DF62552EAA800F0934A /* WebView.swift */; };
 		A47E3CC62552DF31002C7910 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47E3CC52552DF31002C7910 /* AppDelegate.swift */; };
 		A47E3CC82552DF32002C7910 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47E3CC72552DF32002C7910 /* SceneDelegate.swift */; };
 		A47E3CCA2552DF32002C7910 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47E3CC92552DF32002C7910 /* ContentView.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A4467DF62552EAA800F0934A /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		A47E3CC22552DF31002C7910 /* NewsReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A47E3CC52552DF31002C7910 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A47E3CC72552DF32002C7910 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				A47E3CC92552DF32002C7910 /* ContentView.swift */,
 				A47E3CE32552E726002C7910 /* DetailView.swift */,
+				A4467DF62552EAA800F0934A /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				A47E3CC62552DF31002C7910 /* AppDelegate.swift in Sources */,
 				A47E3CC82552DF32002C7910 /* SceneDelegate.swift in Sources */,
 				A47E3CCA2552DF32002C7910 /* ContentView.swift in Sources */,
+				A4467DF72552EAA800F0934A /* WebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
